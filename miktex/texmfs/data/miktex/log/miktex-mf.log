@@ -1,0 +1,22 @@
+2025-05-06 16:56:58,023+0200 INFO  miktex-mf - this process (11480) started by miktex-maketfm in directory C:\Users\neyen\AppData\Local\Temp\mik79520 with command line: miktex-mf.exe --miktex-enable-installer --miktex-disable-maintenance --miktex-disable-diagnose --undump=mf \mode:=ljfour; nonstopmode; "input larm1000"
+2025-05-06 16:56:58,023+0200 INFO  miktex-mf - running on Windows 10.0.19045
+2025-05-06 16:56:58,023+0200 INFO  miktex-mf - this is MiKTeX-METAFONT 4.2.0 (2.71828182) (MiKTeX 24.1 Portable)
+2025-05-06 16:56:58,048+0200 INFO  miktex-mf - going to create file: mf.base
+2025-05-06 16:56:58,048+0200 INFO  miktex-mf.core - start process: miktex --enable-installer formats build mf
+2025-05-06 16:56:59,221+0200 INFO  miktex-mf - this process (6072) started by miktex-makebase in directory C:\Users\neyen\AppData\Local\Temp\mik40415 with command line: miktex-mf.exe --miktex-enable-installer --miktex-disable-maintenance --miktex-disable-diagnose --initialize --interaction=nonstopmode --halt-on-error -tcx=cp227.tcx mf.ini
+2025-05-06 16:56:59,221+0200 INFO  miktex-mf - running on Windows 10.0.19045
+2025-05-06 16:56:59,221+0200 INFO  miktex-mf - this is MiKTeX-METAFONT 4.2.0 (2.71828182) (MiKTeX 24.1 Portable)
+2025-05-06 16:56:59,317+0200 INFO  miktex-mf - this process (6072) finishes with exit code 0
+2025-05-06 16:57:00,041+0200 INFO  miktex-mf - this process (11480) finishes with exit code 0
+2025-05-06 16:57:37,518+0200 INFO  miktex-mf - this process (13416) started by miktex-maketfm in directory C:\Users\neyen\AppData\Local\Temp\mik63837 with command line: miktex-mf.exe --miktex-enable-installer --miktex-disable-maintenance --miktex-disable-diagnose --undump=mf \mode:=ljfour; nonstopmode; "input larm1440"
+2025-05-06 16:57:37,518+0200 INFO  miktex-mf - running on Windows 10.0.19045
+2025-05-06 16:57:37,518+0200 INFO  miktex-mf - this is MiKTeX-METAFONT 4.2.0 (2.71828182) (MiKTeX 24.1 Portable)
+2025-05-06 16:57:38,307+0200 INFO  miktex-mf - this process (13416) finishes with exit code 0
+2025-05-06 16:57:41,232+0200 INFO  miktex-mf - this process (6916) started by miktex-makepk in directory C:\Users\neyen\AppData\Local\Temp\mik73080 with command line: miktex-mf.exe --miktex-enable-installer --miktex-disable-maintenance --miktex-disable-diagnose --undump=mf \mode:=ljfour; \mag:=1+0/600; nonstopmode; "input larm1440"
+2025-05-06 16:57:41,232+0200 INFO  miktex-mf - running on Windows 10.0.19045
+2025-05-06 16:57:41,232+0200 INFO  miktex-mf - this is MiKTeX-METAFONT 4.2.0 (2.71828182) (MiKTeX 24.1 Portable)
+2025-05-06 16:57:41,665+0200 INFO  miktex-mf - this process (6916) finishes with exit code 0
+2025-05-06 16:57:43,106+0200 INFO  miktex-mf - this process (20432) started by miktex-makepk in directory C:\Users\neyen\AppData\Local\Temp\mik57289 with command line: miktex-mf.exe --miktex-enable-installer --miktex-disable-maintenance --miktex-disable-diagnose --undump=mf \mode:=ljfour; \mag:=1+0/600; nonstopmode; "input larm1000"
+2025-05-06 16:57:43,106+0200 INFO  miktex-mf - running on Windows 10.0.19045
+2025-05-06 16:57:43,106+0200 INFO  miktex-mf - this is MiKTeX-METAFONT 4.2.0 (2.71828182) (MiKTeX 24.1 Portable)
+2025-05-06 16:57:43,553+0200 INFO  miktex-mf - this process (20432) finishes with exit code 0

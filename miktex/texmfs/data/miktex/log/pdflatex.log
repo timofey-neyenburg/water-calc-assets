@@ -1,0 +1,108 @@
+2025-05-06 16:56:20,657+0200 INFO  pdflatex - this process (5672) started by cmd in directory C:\Users\neyen\OneDrive\Рабочий стол\miktex\texmfs\install\miktex\bin\x64 with command line: pdflatex.exe "C:\Users\neyen\OneDrive\Рабочий стол\e.tex"
+2025-05-06 16:56:20,657+0200 INFO  pdflatex - running on Windows 10.0.19045
+2025-05-06 16:56:20,659+0200 INFO  pdflatex - this is MiKTeX-PDFTEX 4.18.0 (1.40.25) (MiKTeX 24.1 Portable)
+2025-05-06 16:56:20,668+0200 INFO  pdflatex - allowing known shell commands
+2025-05-06 16:56:20,713+0200 INFO  pdflatex - going to create file: pdflatex.fmt
+2025-05-06 16:56:20,713+0200 INFO  pdflatex.core - start process: miktex --enable-installer formats build pdflatex --engine pdftex
+2025-05-06 16:56:31,070+0200 INFO  pdflatex - installing package cyrillic triggered by tex/latex/cyrillic\t2aenc.def
+2025-05-06 16:56:31,082+0200 INFO  pdflatex.packagemanager - going to download https://api2.miktex.org/hello
+2025-05-06 16:56:31,316+0200 INFO  pdflatex.packagemanager - going to download https://api2.miktex.org/repositories?&releaseState=Stable&orderBy=ranking&take=1&onlySecure=true
+2025-05-06 16:56:31,352+0200 INFO  pdflatex - mpm: starting package maintenance...
+2025-05-06 16:56:31,352+0200 INFO  pdflatex - mpm: installation directory: "C:\Users\neyen\OneDrive\Рабочий стол\miktex\texmfs\install"
+2025-05-06 16:56:31,352+0200 INFO  pdflatex - mpm: package repository: https://mirror.macomnet.net/pub/CTAN/systems/win32/miktex/tm/packages/
+2025-05-06 16:56:32,441+0200 WARN  pdflatex.packagemanager - dependency problem: showframe is required by _miktex-latex-packages
+2025-05-06 16:56:32,442+0200 WARN  pdflatex.packagemanager - dependency problem: thailatex is required by _miktex-latex-packages
+2025-05-06 16:56:32,443+0200 WARN  pdflatex.packagemanager - dependency problem: luxi is required by _miktex-fonts-type1
+2025-05-06 16:56:32,819+0200 INFO  pdflatex - mpm: package repository digest: e1335260c78870c42103bbd56846f41a
+2025-05-06 16:56:32,820+0200 INFO  pdflatex - mpm: going to download 15539 bytes
+2025-05-06 16:56:32,820+0200 INFO  pdflatex - mpm: going to install 107 file(s) (1 package(s))
+2025-05-06 16:56:33,638+0200 INFO  pdflatex.packagemanager - installing package cyrillic
+2025-05-06 16:56:33,639+0200 INFO  pdflatex - mpm: downloading https://mirror.macomnet.net/pub/CTAN/systems/win32/miktex/tm/packages/cyrillic.tar.lzma...
+2025-05-06 16:56:33,661+0200 INFO  pdflatex.packagemanager - going to download https://mirror.macomnet.net/pub/CTAN/systems/win32/miktex/tm/packages/cyrillic.tar.lzma
+2025-05-06 16:56:33,817+0200 INFO  pdflatex - mpm: 0.02 MB, 0.86 Mbit/s
+2025-05-06 16:56:33,841+0200 INFO  pdflatex - mpm: visiting repository https://mirror.macomnet.net/pub/CTAN/systems/win32/miktex/tm/packages/...
+2025-05-06 16:56:33,841+0200 INFO  pdflatex - mpm: repository type: remote package repository
+2025-05-06 16:56:33,843+0200 INFO  pdflatex - mpm: loading package repository manifest...
+2025-05-06 16:56:33,843+0200 INFO  pdflatex - mpm: downloading https://mirror.macomnet.net/pub/CTAN/systems/win32/miktex/tm/packages/miktex-zzdb1-2.9.tar.lzma...
+2025-05-06 16:56:33,843+0200 INFO  pdflatex.packagemanager - going to download https://mirror.macomnet.net/pub/CTAN/systems/win32/miktex/tm/packages/miktex-zzdb1-2.9.tar.lzma
+2025-05-06 16:56:34,052+0200 INFO  pdflatex - mpm: 0.38 MB, 14.79 Mbit/s
+2025-05-06 16:56:34,507+0200 INFO  pdflatex - mpm: package repository digest: 4126b89ecab9cf7baf3dba9a1245f23c
+2025-05-06 16:56:34,509+0200 INFO  pdflatex - mpm: extracting files from cyrillic.tar.lzma...
+2025-05-06 16:56:35,478+0200 INFO  pdflatex.core - start process: miktex fontmaps configure
+2025-05-06 16:56:42,041+0200 INFO  pdflatex.core - start process: miktex-maketfm --verbose larm1000
+2025-05-06 16:57:00,545+0200 INFO  pdflatex - installing package babel-russian triggered by tex/latex/babel-russian\russianb.ldf
+2025-05-06 16:57:00,546+0200 INFO  pdflatex.packagemanager - going to download https://api2.miktex.org/repositories/b8c01b6a944a50dda0c74ec68abec245
+2025-05-06 16:57:00,686+0200 INFO  pdflatex - mpm: starting package maintenance...
+2025-05-06 16:57:00,686+0200 INFO  pdflatex - mpm: installation directory: "C:\Users\neyen\OneDrive\Рабочий стол\miktex\texmfs\install"
+2025-05-06 16:57:00,686+0200 INFO  pdflatex - mpm: package repository: https://mirror.macomnet.net/pub/CTAN/systems/win32/miktex/tm/packages/
+2025-05-06 16:57:01,078+0200 INFO  pdflatex - mpm: package repository digest: 4126b89ecab9cf7baf3dba9a1245f23c
+2025-05-06 16:57:01,078+0200 INFO  pdflatex - mpm: going to download 169392 bytes
+2025-05-06 16:57:01,078+0200 INFO  pdflatex - mpm: going to install 5 file(s) (1 package(s))
+2025-05-06 16:57:01,901+0200 INFO  pdflatex.packagemanager - installing package babel-russian
+2025-05-06 16:57:01,902+0200 INFO  pdflatex - mpm: downloading https://mirror.macomnet.net/pub/CTAN/systems/win32/miktex/tm/packages/babel-russian.tar.lzma...
+2025-05-06 16:57:01,902+0200 INFO  pdflatex.packagemanager - going to download https://mirror.macomnet.net/pub/CTAN/systems/win32/miktex/tm/packages/babel-russian.tar.lzma
+2025-05-06 16:57:02,047+0200 INFO  pdflatex - mpm: 0.17 MB, 9.41 Mbit/s
+2025-05-06 16:57:02,055+0200 INFO  pdflatex - mpm: extracting files from babel-russian.tar.lzma...
+2025-05-06 16:57:02,660+0200 INFO  pdflatex.core - start process: miktex fontmaps configure
+2025-05-06 16:57:09,022+0200 INFO  pdflatex - installing package geometry triggered by tex/latex/geometry\geometry.sty
+2025-05-06 16:57:09,022+0200 INFO  pdflatex - mpm: starting package maintenance...
+2025-05-06 16:57:09,022+0200 INFO  pdflatex - mpm: installation directory: "C:\Users\neyen\OneDrive\Рабочий стол\miktex\texmfs\install"
+2025-05-06 16:57:09,022+0200 INFO  pdflatex - mpm: package repository: https://mirror.macomnet.net/pub/CTAN/systems/win32/miktex/tm/packages/
+2025-05-06 16:57:09,420+0200 INFO  pdflatex - mpm: package repository digest: 4126b89ecab9cf7baf3dba9a1245f23c
+2025-05-06 16:57:09,420+0200 INFO  pdflatex - mpm: going to download 921500 bytes
+2025-05-06 16:57:09,420+0200 INFO  pdflatex - mpm: going to install 8 file(s) (1 package(s))
+2025-05-06 16:57:10,243+0200 INFO  pdflatex.packagemanager - installing package geometry
+2025-05-06 16:57:10,244+0200 INFO  pdflatex - mpm: downloading https://mirror.macomnet.net/pub/CTAN/systems/win32/miktex/tm/packages/geometry.tar.lzma...
+2025-05-06 16:57:10,244+0200 INFO  pdflatex.packagemanager - going to download https://mirror.macomnet.net/pub/CTAN/systems/win32/miktex/tm/packages/geometry.tar.lzma
+2025-05-06 16:57:10,536+0200 INFO  pdflatex - mpm: 0.92 MB, 25.33 Mbit/s
+2025-05-06 16:57:10,545+0200 INFO  pdflatex - mpm: extracting files from geometry.tar.lzma...
+2025-05-06 16:57:11,176+0200 INFO  pdflatex.core - start process: miktex fontmaps configure
+2025-05-06 16:57:17,581+0200 INFO  pdflatex - installing package multirow triggered by tex/latex/multirow\multirow.sty
+2025-05-06 16:57:17,582+0200 INFO  pdflatex - mpm: starting package maintenance...
+2025-05-06 16:57:17,582+0200 INFO  pdflatex - mpm: installation directory: "C:\Users\neyen\OneDrive\Рабочий стол\miktex\texmfs\install"
+2025-05-06 16:57:17,582+0200 INFO  pdflatex - mpm: package repository: https://mirror.macomnet.net/pub/CTAN/systems/win32/miktex/tm/packages/
+2025-05-06 16:57:17,997+0200 INFO  pdflatex - mpm: package repository digest: 4126b89ecab9cf7baf3dba9a1245f23c
+2025-05-06 16:57:17,997+0200 INFO  pdflatex - mpm: going to download 3020 bytes
+2025-05-06 16:57:17,998+0200 INFO  pdflatex - mpm: going to install 7 file(s) (1 package(s))
+2025-05-06 16:57:18,831+0200 INFO  pdflatex.packagemanager - installing package multirow
+2025-05-06 16:57:18,832+0200 INFO  pdflatex - mpm: downloading https://mirror.macomnet.net/pub/CTAN/systems/win32/miktex/tm/packages/multirow.tar.lzma...
+2025-05-06 16:57:18,832+0200 INFO  pdflatex.packagemanager - going to download https://mirror.macomnet.net/pub/CTAN/systems/win32/miktex/tm/packages/multirow.tar.lzma
+2025-05-06 16:57:18,867+0200 INFO  pdflatex - mpm: 0.00 MB, 0.71 Mbit/s
+2025-05-06 16:57:18,875+0200 INFO  pdflatex - mpm: extracting files from multirow.tar.lzma...
+2025-05-06 16:57:19,475+0200 INFO  pdflatex.core - start process: miktex fontmaps configure
+2025-05-06 16:57:25,769+0200 INFO  pdflatex - installing package psnfss triggered by tex/latex/psnfss\times.sty
+2025-05-06 16:57:25,769+0200 INFO  pdflatex - mpm: starting package maintenance...
+2025-05-06 16:57:25,769+0200 INFO  pdflatex - mpm: installation directory: "C:\Users\neyen\OneDrive\Рабочий стол\miktex\texmfs\install"
+2025-05-06 16:57:25,769+0200 INFO  pdflatex - mpm: package repository: https://mirror.macomnet.net/pub/CTAN/systems/win32/miktex/tm/packages/
+2025-05-06 16:57:26,156+0200 INFO  pdflatex - mpm: package repository digest: 4126b89ecab9cf7baf3dba9a1245f23c
+2025-05-06 16:57:26,156+0200 INFO  pdflatex - mpm: going to download 279649 bytes
+2025-05-06 16:57:26,156+0200 INFO  pdflatex - mpm: going to install 121 file(s) (1 package(s))
+2025-05-06 16:57:26,971+0200 INFO  pdflatex.packagemanager - installing package psnfss
+2025-05-06 16:57:26,971+0200 INFO  pdflatex - mpm: downloading https://mirror.macomnet.net/pub/CTAN/systems/win32/miktex/tm/packages/psnfss.tar.lzma...
+2025-05-06 16:57:26,971+0200 INFO  pdflatex.packagemanager - going to download https://mirror.macomnet.net/pub/CTAN/systems/win32/miktex/tm/packages/psnfss.tar.lzma
+2025-05-06 16:57:27,182+0200 INFO  pdflatex - mpm: 0.28 MB, 10.65 Mbit/s
+2025-05-06 16:57:27,193+0200 INFO  pdflatex - mpm: extracting files from psnfss.tar.lzma...
+2025-05-06 16:57:28,195+0200 INFO  pdflatex.core - start process: miktex fontmaps configure
+2025-05-06 16:57:36,256+0200 INFO  pdflatex.core - start process: miktex-maketfm --verbose larm1440
+2025-05-06 16:57:38,411+0200 WARN  pdflatex - could not write &#131 to the terminal: errno 22: Invalid argument
+2025-05-06 16:57:38,423+0200 WARN  pdflatex - could not write &#176 to the terminal: errno 22: Invalid argument
+2025-05-06 16:57:38,435+0200 WARN  pdflatex - could not write &#129 to the terminal: errno 22: Invalid argument
+2025-05-06 16:57:40,145+0200 WARN  pdflatex - could not write &#252 to the terminal: errno 22: Invalid argument
+2025-05-06 16:57:40,153+0200 WARN  pdflatex - could not write &#251 to the terminal: errno 22: Invalid argument
+2025-05-06 16:57:40,160+0200 WARN  pdflatex - could not write &#252 to the terminal: errno 22: Invalid argument
+2025-05-06 16:57:40,160+0200 WARN  pdflatex - could not write &#248 to the terminal: errno 22: Invalid argument
+2025-05-06 16:57:40,165+0200 WARN  pdflatex - could not write &#252 to the terminal: errno 22: Invalid argument
+2025-05-06 16:57:40,166+0200 WARN  pdflatex - could not write &#248 to the terminal: errno 22: Invalid argument
+2025-05-06 16:57:40,173+0200 WARN  pdflatex - could not write &#249 to the terminal: errno 22: Invalid argument
+2025-05-06 16:57:40,173+0200 WARN  pdflatex - could not write &#255 to the terminal: errno 22: Invalid argument
+2025-05-06 16:57:40,179+0200 WARN  pdflatex - could not write &#255 to the terminal: errno 22: Invalid argument
+2025-05-06 16:57:40,184+0200 WARN  pdflatex - could not write &#255 to the terminal: errno 22: Invalid argument
+2025-05-06 16:57:40,188+0200 WARN  pdflatex - could not write &#249 to the terminal: errno 22: Invalid argument
+2025-05-06 16:57:40,188+0200 WARN  pdflatex - could not write &#255 to the terminal: errno 22: Invalid argument
+2025-05-06 16:57:40,194+0200 WARN  pdflatex - could not write &#255 to the terminal: errno 22: Invalid argument
+2025-05-06 16:57:40,199+0200 WARN  pdflatex - could not write &#255 to the terminal: errno 22: Invalid argument
+2025-05-06 16:57:40,478+0200 INFO  pdflatex.core - start process: miktex-makepk --enable-installer --verbose larm1440 600 600 1+0/600
+2025-05-06 16:57:42,391+0200 INFO  pdflatex.core - start process: miktex-makepk --enable-installer --verbose larm1000 600 600 1+0/600
+2025-05-06 16:57:43,965+0200 WARN  pdflatex - could not write &#129 to the terminal: errno 22: Invalid argument
+2025-05-06 16:57:44,048+0200 INFO  pdflatex - this process (5672) finishes with exit code 1
+2025-05-06 16:57:44,050+0200 ERROR pdflatex - major issue: So far, you have not checked for MiKTeX updates.

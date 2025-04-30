@@ -1,0 +1,10 @@
++2025-05-06-16-56-21.log;miktex/log/makefmt/pdflatex;
++pdflatex.fmt;miktex/data/le/pdftex;
+-CACHEDIR.TAG;fontconfig/cache
++larm1000.mf;fonts/source/lh/lh-t2a;
++mf.base;miktex/data/le;
++larm1000.tfm;fonts/tfm/lh/lh-t2a;
++larm1440.mf;fonts/source/lh/lh-t2a;
++larm1440.tfm;fonts/tfm/lh/lh-t2a;
++larm1440.pk;fonts/pk/ljfour/lh/lh-t2a/dpi600;
++larm1000.pk;fonts/pk/ljfour/lh/lh-t2a/dpi600;

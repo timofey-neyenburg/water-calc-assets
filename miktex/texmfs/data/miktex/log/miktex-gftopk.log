@@ -1,0 +1,12 @@
+2025-05-06 16:57:42,108+0200 INFO  miktex-gftopk - this process (6516) started by miktex-makepk in directory C:\Users\neyen\AppData\Local\Temp\mik73080 with command line: miktex-gftopk.exe --miktex-enable-installer --miktex-disable-maintenance --miktex-disable-diagnose larm1440.600gf larm1440.pk
+2025-05-06 16:57:42,108+0200 INFO  miktex-gftopk - running on Windows 10.0.19045
+2025-05-06 16:57:42,108+0200 INFO  miktex-gftopk - this is MiKTeX-GFTOPK  (MiKTeX 24.1 Portable)
+2025-05-06 16:57:42,114+0200 INFO  miktex-gftopk - this process (6516) finishes with exit code 0
+2025-05-06 16:57:42,114+0200 WARN  miktex-gftopk.core - still open: larm1440.600gf
+2025-05-06 16:57:42,114+0200 WARN  miktex-gftopk.core - still open: larm1440.pk
+2025-05-06 16:57:43,862+0200 INFO  miktex-gftopk - this process (22036) started by miktex-makepk in directory C:\Users\neyen\AppData\Local\Temp\mik57289 with command line: miktex-gftopk.exe --miktex-enable-installer --miktex-disable-maintenance --miktex-disable-diagnose larm1000.600gf larm1000.pk
+2025-05-06 16:57:43,862+0200 INFO  miktex-gftopk - running on Windows 10.0.19045
+2025-05-06 16:57:43,862+0200 INFO  miktex-gftopk - this is MiKTeX-GFTOPK  (MiKTeX 24.1 Portable)
+2025-05-06 16:57:43,866+0200 INFO  miktex-gftopk - this process (22036) finishes with exit code 0
+2025-05-06 16:57:43,866+0200 WARN  miktex-gftopk.core - still open: larm1000.600gf
+2025-05-06 16:57:43,866+0200 WARN  miktex-gftopk.core - still open: larm1000.pk

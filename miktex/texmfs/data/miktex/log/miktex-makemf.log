@@ -1,0 +1,8 @@
+2025-05-06 16:56:57,565+0200 INFO  miktex-makemf - this process (14732) started by miktex-maketfm in directory C:\Users\neyen\AppData\Local\Temp\mik79520 with command line: miktex-makemf.exe --miktex-enable-installer --miktex-disable-maintenance --miktex-disable-diagnose --verbose larm1000
+2025-05-06 16:56:57,565+0200 INFO  miktex-makemf - running on Windows 10.0.19045
+2025-05-06 16:56:57,666+0200 INFO  makemf - Writing on "C:\Users\neyen\OneDrive\Рабочий стол\miktex\texmfs/data\fonts\source\lh\lh-t2a\larm1000.mf"...
+2025-05-06 16:56:57,674+0200 INFO  miktex-makemf - this process (14732) finishes with exit code 0
+2025-05-06 16:57:37,102+0200 INFO  miktex-makemf - this process (14452) started by miktex-maketfm in directory C:\Users\neyen\AppData\Local\Temp\mik63837 with command line: miktex-makemf.exe --miktex-enable-installer --miktex-disable-maintenance --miktex-disable-diagnose --verbose larm1440
+2025-05-06 16:57:37,102+0200 INFO  miktex-makemf - running on Windows 10.0.19045
+2025-05-06 16:57:37,187+0200 INFO  makemf - Writing on "C:\Users\neyen\OneDrive\Рабочий стол\miktex\texmfs/data\fonts\source\lh\lh-t2a\larm1440.mf"...
+2025-05-06 16:57:37,193+0200 INFO  miktex-makemf - this process (14452) finishes with exit code 0

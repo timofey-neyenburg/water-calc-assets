@@ -1,0 +1,6 @@
+2025-05-06 16:54:56,753+0200 INFO  mpmcli - this is mpmcli 4.4 (MiKTeX 24.1 Portable)
+2025-05-06 16:54:56,753+0200 INFO  mpmcli - this process (16888) started by 'miktex-portable' with command line: mpm --register-components --verbose
+2025-05-06 16:54:56,753+0200 INFO  mpmcli - Operating on the private (per-user) MiKTeX setup
+2025-05-06 16:54:56,817+0200 WARN  mpmcli.core - still open: "C:\Users\neyen\OneDrive\Рабочий стол\miktex\texmfs\install\fontconfig\config\fonts.conf.in"
+2025-05-06 16:54:56,817+0200 WARN  mpmcli.core - still open: "C:\Users\neyen\OneDrive\Рабочий стол\miktex\texmfs/config\fontconfig\config\fonts.conf"
+2025-05-06 16:54:56,818+0200 INFO  mpmcli - this process (16888) finishes with exit code 0

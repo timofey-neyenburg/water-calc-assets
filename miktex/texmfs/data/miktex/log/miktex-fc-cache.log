@@ -1,0 +1,21 @@
+2025-05-06 16:55:12,160+0200 INFO  miktex-fc-cache - this process (5632) started by miktex in directory C:\Users\neyen\OneDrive\Рабочий стол with command line: miktex-fc-cache --verbose --miktex-disable-maintenance --miktex-disable-diagnose
+2025-05-06 16:55:12,161+0200 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2025-05-06 16:55:13,876+0200 INFO  miktex-fc-cache - this process (5632) finishes with exit code 0
+2025-05-06 16:56:41,648+0200 INFO  miktex-fc-cache - this process (13704) started by miktex in directory C:\Users\neyen\OneDrive\Рабочий стол\miktex\texmfs\install\miktex\bin\x64 with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2025-05-06 16:56:41,648+0200 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2025-05-06 16:56:41,725+0200 INFO  miktex-fc-cache - this process (13704) finishes with exit code 0
+2025-05-06 16:56:53,962+0200 INFO  miktex-fc-cache - this process (1588) started by miktex in directory C:\Users\neyen\OneDrive\Рабочий стол\miktex\texmfs\install\miktex\bin\x64 with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2025-05-06 16:56:53,963+0200 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2025-05-06 16:56:54,022+0200 INFO  miktex-fc-cache - this process (1588) finishes with exit code 0
+2025-05-06 16:57:08,395+0200 INFO  miktex-fc-cache - this process (5100) started by miktex in directory C:\Users\neyen\OneDrive\Рабочий стол\miktex\texmfs\install\miktex\bin\x64 with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2025-05-06 16:57:08,395+0200 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2025-05-06 16:57:08,454+0200 INFO  miktex-fc-cache - this process (5100) finishes with exit code 0
+2025-05-06 16:57:17,133+0200 INFO  miktex-fc-cache - this process (21648) started by miktex in directory C:\Users\neyen\OneDrive\Рабочий стол\miktex\texmfs\install\miktex\bin\x64 with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2025-05-06 16:57:17,133+0200 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2025-05-06 16:57:17,197+0200 INFO  miktex-fc-cache - this process (21648) finishes with exit code 0
+2025-05-06 16:57:25,475+0200 INFO  miktex-fc-cache - this process (20568) started by miktex in directory C:\Users\neyen\OneDrive\Рабочий стол\miktex\texmfs\install\miktex\bin\x64 with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2025-05-06 16:57:25,475+0200 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2025-05-06 16:57:25,535+0200 INFO  miktex-fc-cache - this process (20568) finishes with exit code 0
+2025-05-06 16:57:34,052+0200 INFO  miktex-fc-cache - this process (19000) started by miktex in directory C:\Users\neyen\OneDrive\Рабочий стол\miktex\texmfs\install\miktex\bin\x64 with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2025-05-06 16:57:34,053+0200 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2025-05-06 16:57:34,113+0200 INFO  miktex-fc-cache - this process (19000) finishes with exit code 0

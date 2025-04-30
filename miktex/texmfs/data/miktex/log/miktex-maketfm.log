@@ -1,0 +1,41 @@
+2025-05-06 16:56:42,473+0200 INFO  miktex-maketfm - this process (13464) started by pdflatex in directory C:\Users\neyen\OneDrive\Рабочий стол\miktex\texmfs\install\miktex\bin\x64 with command line: miktex-maketfm --verbose larm1000
+2025-05-06 16:56:42,473+0200 INFO  miktex-maketfm - running on Windows 10.0.19045
+2025-05-06 16:56:42,532+0200 INFO  miktex-maketfm - installing package lh triggered by fonts/source/lh/lh-t2a\lacodes.mf
+2025-05-06 16:56:42,534+0200 INFO  miktex-maketfm.packagemanager - going to download https://api2.miktex.org/repositories?&releaseState=Stable&orderBy=ranking&take=1&onlySecure=true
+2025-05-06 16:56:42,679+0200 INFO  miktex-maketfm - mpm: starting package maintenance...
+2025-05-06 16:56:42,679+0200 INFO  miktex-maketfm - mpm: installation directory: "C:\Users\neyen\OneDrive\Рабочий стол\miktex\texmfs\install"
+2025-05-06 16:56:42,679+0200 INFO  miktex-maketfm - mpm: package repository: https://mirror.macomnet.net/pub/CTAN/systems/win32/miktex/tm/packages/
+2025-05-06 16:56:43,758+0200 WARN  miktex-maketfm.packagemanager - dependency problem: showframe is required by _miktex-latex-packages
+2025-05-06 16:56:43,758+0200 WARN  miktex-maketfm.packagemanager - dependency problem: thailatex is required by _miktex-latex-packages
+2025-05-06 16:56:43,760+0200 WARN  miktex-maketfm.packagemanager - dependency problem: luxi is required by _miktex-fonts-type1
+2025-05-06 16:56:44,178+0200 INFO  miktex-maketfm - mpm: package repository digest: 4126b89ecab9cf7baf3dba9a1245f23c
+2025-05-06 16:56:44,178+0200 INFO  miktex-maketfm - mpm: going to download 253127 bytes
+2025-05-06 16:56:44,178+0200 INFO  miktex-maketfm - mpm: going to install 699 file(s) (1 package(s))
+2025-05-06 16:56:45,001+0200 INFO  miktex-maketfm.packagemanager - installing package lh
+2025-05-06 16:56:45,001+0200 INFO  miktex-maketfm - mpm: downloading https://mirror.macomnet.net/pub/CTAN/systems/win32/miktex/tm/packages/lh.tar.lzma...
+2025-05-06 16:56:45,002+0200 INFO  miktex-maketfm.packagemanager - going to download https://mirror.macomnet.net/pub/CTAN/systems/win32/miktex/tm/packages/lh.tar.lzma
+2025-05-06 16:56:45,285+0200 INFO  miktex-maketfm - mpm: 0.25 MB, 7.18 Mbit/s
+2025-05-06 16:56:45,294+0200 INFO  miktex-maketfm - mpm: extracting files from lh.tar.lzma...
+2025-05-06 16:56:48,060+0200 INFO  miktex-maketfm.core - start process: miktex fontmaps configure
+2025-05-06 16:56:54,249+0200 INFO  maketfm - Running miktex-makemf.exe...
+2025-05-06 16:56:57,222+0200 INFO  maketfm - running: miktex-makemf.exe --miktex-enable-installer --miktex-disable-maintenance --miktex-disable-diagnose --verbose larm1000
+2025-05-06 16:56:57,222+0200 INFO  miktex-maketfm.core - start process: miktex-makemf.exe --miktex-enable-installer --miktex-disable-maintenance --miktex-disable-diagnose --verbose larm1000
+2025-05-06 16:56:57,730+0200 INFO  maketfm - Making larm1000.tfm from ""...
+2025-05-06 16:56:57,743+0200 INFO  maketfm - Running miktex-mf.exe...
+2025-05-06 16:56:57,744+0200 INFO  maketfm - running: miktex-mf.exe --miktex-enable-installer --miktex-disable-maintenance --miktex-disable-diagnose --undump=mf \mode:=ljfour; nonstopmode; "input larm1000"
+2025-05-06 16:56:57,744+0200 INFO  miktex-maketfm.core - start process: miktex-mf.exe --miktex-enable-installer --miktex-disable-maintenance --miktex-disable-diagnose --undump=mf \mode:=ljfour; nonstopmode; "input larm1000"
+2025-05-06 16:57:00,101+0200 INFO  maketfm - Installing "C:\Users\neyen\OneDrive\Рабочий стол\miktex\texmfs/data\fonts/tfm/lh/lh-t2a\larm1000.tfm"...
+2025-05-06 16:57:00,112+0200 INFO  miktex-maketfm - this process (13464) finishes with exit code 0
+2025-05-06 16:57:00,114+0200 ERROR miktex-maketfm - major issue: So far, you have not checked for MiKTeX updates.
+2025-05-06 16:57:36,631+0200 INFO  miktex-maketfm - this process (6604) started by pdflatex in directory C:\Users\neyen\OneDrive\Рабочий стол\miktex\texmfs\install\miktex\bin\x64 with command line: miktex-maketfm --verbose larm1440
+2025-05-06 16:57:36,631+0200 INFO  miktex-maketfm - running on Windows 10.0.19045
+2025-05-06 16:57:36,699+0200 INFO  maketfm - Running miktex-makemf.exe...
+2025-05-06 16:57:36,700+0200 INFO  maketfm - running: miktex-makemf.exe --miktex-enable-installer --miktex-disable-maintenance --miktex-disable-diagnose --verbose larm1440
+2025-05-06 16:57:36,700+0200 INFO  miktex-maketfm.core - start process: miktex-makemf.exe --miktex-enable-installer --miktex-disable-maintenance --miktex-disable-diagnose --verbose larm1440
+2025-05-06 16:57:37,254+0200 INFO  maketfm - Making larm1440.tfm from ""...
+2025-05-06 16:57:37,268+0200 INFO  maketfm - Running miktex-mf.exe...
+2025-05-06 16:57:37,269+0200 INFO  maketfm - running: miktex-mf.exe --miktex-enable-installer --miktex-disable-maintenance --miktex-disable-diagnose --undump=mf \mode:=ljfour; nonstopmode; "input larm1440"
+2025-05-06 16:57:37,269+0200 INFO  miktex-maketfm.core - start process: miktex-mf.exe --miktex-enable-installer --miktex-disable-maintenance --miktex-disable-diagnose --undump=mf \mode:=ljfour; nonstopmode; "input larm1440"
+2025-05-06 16:57:38,363+0200 INFO  maketfm - Installing "C:\Users\neyen\OneDrive\Рабочий стол\miktex\texmfs/data\fonts/tfm/lh/lh-t2a\larm1440.tfm"...
+2025-05-06 16:57:38,374+0200 INFO  miktex-maketfm - this process (6604) finishes with exit code 0
+2025-05-06 16:57:38,376+0200 ERROR miktex-maketfm - major issue: So far, you have not checked for MiKTeX updates.
